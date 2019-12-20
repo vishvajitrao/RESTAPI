@@ -1,0 +1,206 @@
+{
+    "U2": {
+        "Airline_Name": "easyjet",
+        "logo": "{% static 'flights/images/airlines/EasyJetLogo.jpg' %}"
+    },
+    "A3": {
+        "Airline_Name": "Aegean Airlines",
+        "logo": "{% static 'flights/images/airlines/AegeanAirlines.jpg' %}"
+    },
+    "EI": {
+        "Airline_Name": "Aer Lingus",
+        "logo": "{% static 'flights/images/airlines/AerLingus.jpg' %}"
+    },
+    "SU": {
+        "Airline_Name": "Aeroflot",
+        "logo": "{% static 'flights/images/airlines/AeroflotLogo.jpg' %}"
+    },
+    "AK": {
+        "Airline_Name": "AirAsia",
+        "logo": "{% static 'flights/images/airlines/AirAsiaLogo.jpg' %}"
+    },
+    "KC": {
+        "Airline_Name": "Air Astana",
+        "logo": "{% static 'flights/images/airlines/AirAstana.jpg' %}"
+    },
+    "AC": {
+        "Airline_Name": "Air Canada",
+        "logo": "{% static 'flights/images/airlines/AirCanadaLogo.jpg' %}"
+    },
+    "RV": {
+        "Airline_Name": "Air Canada rouge",
+        "logo": "{% static 'flights/images/airlines/AirCanadarougeLogo.jpg' %}"
+    },
+    "CA": {
+        "Airline_Name": "Air China",
+        "logo": "{% static 'flights/images/airlines/AirChinaLogo.jpg' %}"
+    },
+    "EN": {
+        "Airline_Name": "Air Dolomiti",
+        "logo": "{% static 'flights/images/airlines/AirDolomitiLogo.jpg' %}"
+    },
+    "AF": {
+        "Airline_Name": "Air France",
+        "logo": "{% static 'flights/images/airlines/AirFranceLogo.jpg' %}"
+    },
+    "KM": {
+        "Airline_Name": "Air Malta",
+        "logo": "{% static 'flights/images/airlines/AirMaltaLogo.jpg' %}"
+    },
+    "MK": {
+        "Airline_Name": "Air Mauritius",
+        "logo": "{% static 'flights/images/airlines/AirMauritius.jpg' %}"
+    },
+    "NZ": {
+        "Airline_Name": "Air New Zealand",
+        "logo": "{% static 'flights/images/airlines/AirNewZealand.jpg' %}"
+    },
+    "HM": {
+        "Airline_Name": "Air Seychelles",
+        "logo": "{% static 'flights/images/airlines/AirSeychellesLogo.jpg' %}"
+    },
+    "TS": {
+        "Airline_Name": "Air Transat",
+        "logo": "{% static 'flights/images/airlines/AirTransat.jpg' %}"
+    },
+    "AS": {
+        "Airline_Name": "Alaska Airlines",
+        "logo": "{% static 'flights/images/airlines/AlaskaAirlines.jpg' %}"
+    },
+    "AZ": {
+        "Airline_Name": "Alitalia",
+        "logo": "{% static 'flights/images/airlines/Alitalia.jpg' %}"
+    },
+    "AA": {
+        "Airline_Name": "American Air lines",
+        "logo": "{% static 'flights/images/airlines/AmericanAirlinesLogo.jpg' %}"
+    },
+    "NH": {
+        "Airline_Name": "ANA All Nippon Airways",
+        "logo": "{% static 'flights/images/airlines/ANAAllNipponAirways.jpg' %}"
+    },
+    "OZ": {
+        "Airline_Name": "Asiana Airlines",
+        "logo": "{% static 'flights/images/airlines/AsianaAirlines.jpg' %}"
+    },
+    "OS": {
+        "Airline_Name": "Austrian Air lines",
+        "logo": "{% static 'flights/images/airlines/AustrianAirlinesLogo.jpg' %}"
+    },
+    "AV": {
+        "Airline_Name": "Avianca",
+        "logo": "{% static 'flights/images/airlines/AviancaLogo.jpg' %}"
+    },
+    "J2": {
+        "Airline_Name": "Azerbaijan Airlines",
+        "logo": "{% static 'flights/images/airlines/AzerbaijanAirlines.jpg' %}"
+    },
+    "AD": {
+        "Airline_Name": "Azul Airlines",
+        "logo": "{% static 'flights/images/airlines/AzulAirlinesLogo.jpg' %}"
+    },
+    "PG": {
+        "Airline_Name": "Bangkok Airways",
+        "logo": "{% static 'flights/images/airlines/BangkokAirways.jpg' %}"
+    },
+    "BA": {
+        "Airline_Name": "British Airways",
+        "logo": "{% static 'flights/images/airlines/BritishAirwaysLogo.jpg' %}"
+    },
+    "SN": {
+        "Airline_Name": "Brussels Airlines",
+        "logo": "{% static 'flights/images/airlines/BrusselsAirlinesLogo.jpg' %}"
+    },
+    "KA": {
+        "Airline_Name": "Cathay Dragon",
+        "logo": "{% static 'flights/images/airlines/CathayDragon.jpg' %}"
+    },
+    "CX": {
+        "Airline_Name": "Cathay Pacific Airways",
+        "logo": "{% static 'flights/images/airlines/CathayPacificAirways.jpg' %}"
+    },
+    "CI": {
+        "Airline_Name": "China Airlines",
+        "logo": "{% static 'flights/images/airlines/ChinaAirlinesLogo.jpg' %}"
+    },
+    "MU": {
+        "Airline_Name": "China Eastern Airlines",
+        "logo": "{% static 'flights/images/airlines/ChinaEasternAirlinesLogo.jpg' %}"
+    },
+    "CZ": {
+        "Airline_Name": "Brussels Airlines",
+        "logo": "{% static 'flights/images/airlines/ChinaSouthernAirlines.jpg' %}"
+    },
+    "CM": {
+        "Airline_Name": "Copa Airlines",
+        "logo": "{% static 'flights/images/airlines/CopaAirlinesLogo.jpg' %}"
+    },
+    "DL": {
+        "Airline_Name": "Delta Air Lines",
+        "logo": "{% static 'flights/images/airlines/DeltaAirLines.jpg' %}"
+    },
+    "EK": {
+        "Airline_Name": "Emirates",
+        "logo": "{% static 'flights/images/airlines/Emirates.jpg' %}"
+    },
+    "EY": {
+        "Airline_Name": "Etihad Airways",
+        "logo": "{% static 'flights/images/airlines/EtihadAirways.jpg' %}"
+    },
+    "EW": {
+        "Airline_Name": "Copa Airlines",
+        "logo": "{% static 'flights/images/airlines/CopaAirlinesLogo.jpg' %}"
+    },
+    "BR": {
+        "Airline_Name": "EVAAir",
+        "logo": "{% static 'flights/images/airlines/EVAAir.jpg' %}"
+    },
+    "FJ": {
+        "Airline_Name": "Fiji Airways",
+        "logo": "{% static 'flights/images/airlines/FijiAirways.jpg' %}"
+    },
+    "AY": {
+        "Airline_Name": "Finnair",
+        "logo": "{% static 'flights/images/airlines/Finnair.jpg' %}"
+    },
+    "XY": {
+        "Airline_Name": "Flynas",
+        "logo": "{% static 'flights/images/airlines/FlynasLogo.jpg' %}"
+    },
+    "GA": {
+        "Airline_Name": "Garuda Indonesia",
+        "logo": "{% static 'flights/images/airlines/GarudaIndonesiaLogo.jpg' %}"
+    },
+    "GF": {
+        "Airline_Name": "Gulf Air",
+        "logo": "{% static 'flights/images/airlines/GulfAirLogo.jpg' %}"
+    },
+    "HU": {
+        "Airline_Name": "Finnair",
+        "logo": "{% static 'flights/images/airlines/HainanAirlines.jpg' %}"
+    },
+    "HA": {
+        "Airline_Name": "Hawaiian Airlines",
+        "logo": "{% static 'flights/images/airlines/HawaiianAirlinesLogo.jpg' %}"
+    },
+    "HX": {
+        "Airline_Name": "HongKong Airlines",
+        "logo": "{% static 'flights/images/airlines/HongKongAirlinesLogo.jpg' %}"
+    },
+    "IB": {
+        "Airline_Name": "Iberia",
+        "logo": "{% static 'flights/images/airlines/Iberia.jpg' %}"
+    },
+    "FI": {
+        "Airline_Name": "Icelandair",
+        "logo": "{% static 'flights/images/airlines/IcelandairLogo.jpg' %}"
+    },
+    "6E": {
+        "Airline_Name": "IndiGo",
+        "logo": "{% static 'flights/images/airlines/IndiGo.jpg' %}"
+    },
+    "JL": {
+        "Airline_Name": "Japan Airlines",
+        "logo": "{% static 'flights/images/airlines/JapanAirlines.jpg' %}"
+    }
+}
